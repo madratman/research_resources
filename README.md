@@ -7,4 +7,5 @@ A repo containing links of various tutorials, courses, and papers I've read at s
 - [CVPR 2014 tutorial on Visual SLAM](http://frc.ri.cmu.edu/~kaess/vslam_cvpr14/)
 
 #####Algos
-- Elastic 
+- [ElasticFusion](https://github.com/mp3guy/ElasticFusion)
+- [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) and [ORB-SLAM1](https://github.com/raulmur/ORB_SLAM)
