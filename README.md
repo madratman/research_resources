@@ -7,6 +7,7 @@ A repo containing links of various tutorials, courses, and papers I've read at s
 - [Using CNNs to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/#id10) : nolearn, lasagne
 
 ##### RNN/LSTM 
+###### Text
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Recurrent Networks in Lasagne](http://colinraffel.com/talks/hammer2015recurrent.pdf)    
 
