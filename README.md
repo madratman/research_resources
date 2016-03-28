@@ -8,7 +8,8 @@ A repo containing links of various tutorials, courses, and papers I've read at s
 
 ##### RNN/LSTM 
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- [Recurrent Networks in Lasagne](http://colinraffel.com/talks/hammer2015recurrent.pdf)
+- [Recurrent Networks in Lasagne](http://colinraffel.com/talks/hammer2015recurrent.pdf)    
+
 ###### Music
 - [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
 - [Composing Music with LSTM Recurrent Networks - Blues Improvisation](http://people.idsia.ch/~juergen/blues/)
