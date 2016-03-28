@@ -1,6 +1,14 @@
 # robotics_resources
 A repo containing links of various tutorials, courses, and papers I've read at some point of time.
 
+####Deep Learning
+#####CNN
+- [Using CNNs to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/#id10) : nolearn, lasagne
+
+####RL
+#####Deep
+- http://www.nervanasys.com/demystifying-deep-reinforcement-learning/
+#####Not so deep
 
 ####SLAM 
 #####Tutorials
