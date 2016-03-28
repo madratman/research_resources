@@ -6,6 +6,9 @@ A repo containing links of various tutorials, courses, and papers I've read at s
 - [A guide to convolution arithmetic for deep learning](http://arxiv.org/abs/1603.07285v1) : Someone explains deconvolution/transposed convolution finally. [Lecture 9](https://computing.ece.vt.edu/~f15ece6504/#schedule) by Prof. Dhruv Batra is useful as well
 - [Using CNNs to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/#id10) : nolearn, lasagne
 
+##### Deep Belief Nets/RBMs 
+- [A Tutorial on Deep Neural Networks for Intelligent Systems](http://arxiv.org/pdf/1603.07249v1.pdf)
+
 #### RL
 ##### Deep
 - [Demystifying deep reinforcement learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)  
