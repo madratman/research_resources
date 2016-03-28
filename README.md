@@ -36,7 +36,13 @@ A repo containing links of various tutorials, courses, and papers I've read at s
 - [ElasticFusion](https://github.com/mp3guy/ElasticFusion)
 - [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) and [ORB-SLAM1](https://github.com/raulmur/ORB_SLAM)
 
-##### Courses
+#### Blogs to follow
+- [Google](http://googleresearch.blogspot.com/)
+- [inFERENCe](http://www.inference.vc/)
+- [karpathy](http://karpathy.github.io/)
+- [nervana](http://www.nervanasys.com/blog/)
+
+#### Courses
 - [robotics 1](http://www.diag.uniroma1.it/~deluca/rob1_en/material_rob1_en.html), Prof. Alessandro De Luca
    - Aims: This course provides the basic tools for the kinematic analysis, trajectory planning, and programming of motion tasks for robot manipulators in industrial and service environments.
    - Contents: Typical robotic systems are illustrated through examples of manipulators and mobile-base robots in industrial and service applications. The basic functional components of a robot are presented: mechanics for manipulation, actuators, proprio- and exteroceptive sensing devices, control architecture, and programming. Direct, inverse, and differential kinematic models of robot manipulators are analyzed. Trajectory planning methods both in the joint and in the task (Cartesian) space are then explored. Simple control schemes are introduced, including kinematic control for robot arms and decentralized dynamic control for the single axes of a manipulator.
