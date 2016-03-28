@@ -4,6 +4,7 @@ A repo containing links of various tutorials, courses, and papers I've read at s
 #### Deep Learning
 ##### General 
 - [Escaping saddlepoints](http://www.offconvex.org/2016/03/22/saddlepoints/)
+
 ##### CNN
 - [A guide to convolution arithmetic for deep learning](http://arxiv.org/abs/1603.07285v1) : Someone explains deconvolution/transposed convolution finally. [Lecture 9](https://computing.ece.vt.edu/~f15ece6504/#schedule) by Prof. Dhruv Batra is useful as well
 - [Using CNNs to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/#id10) : nolearn, lasagne
