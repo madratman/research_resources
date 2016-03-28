@@ -31,7 +31,8 @@ A repo containing links of various tutorials, courses, and papers I've read at s
 - [Demystifying deep reinforcement learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)  
 
 #### Not so deep
-- [Adversarial Bandits and the Exp3 Algorithm](http://jeremykun.com/2013/11/08/adversarial-bandits-and-the-exp3-algorithm/) : Math ∩ Programming blog    
+- [Adversarial Bandits and the Exp3 Algorithm](http://jeremykun.com/2013/11/08/adversarial-bandits-and-the-exp3-algorithm/) : Math ∩ Programming blog     
+  Related - [SeqOpt by Debadeepta Dey et al](https://www.ri.cmu.edu/pub_files/2012/7/aaai12.pdf)
    
 
 #### SLAM 
