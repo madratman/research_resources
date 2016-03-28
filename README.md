@@ -30,7 +30,9 @@ A repo containing links of various tutorials, courses, and papers I've read at s
 ##### Deep
 - [Demystifying deep reinforcement learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)  
 
-##### Not so deep
+#### Not so deep
+- [Adversarial Bandits and the Exp3 Algorithm](http://jeremykun.com/2013/11/08/adversarial-bandits-and-the-exp3-algorithm/) : Math ∩ Programming blog    
+   
 
 #### SLAM 
 ##### Tutorials
@@ -45,6 +47,7 @@ A repo containing links of various tutorials, courses, and papers I've read at s
 - [inFERENCe](http://www.inference.vc/)
 - [karpathy](http://karpathy.github.io/)
 - [nervana](http://www.nervanasys.com/blog/)
+- [Math ∩ Programming](http://jeremykun.com/)
 
 #### Uncategorized cool stuff
 - [Pictures combined by CNNs](http://imgur.com/gallery/BAJ8j)
