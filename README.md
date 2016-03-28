@@ -14,6 +14,10 @@ A repo containing links of various tutorials, courses, and papers I've read at s
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Recurrent Networks in Lasagne](http://colinraffel.com/talks/hammer2015recurrent.pdf)    
 
+##### Generative
+[Enhancing images using Deep Convolutional Generative Adversarial Networks (DCGANs)](https://swarbrickjones.wordpress.com/2016/01/13/enhancing-images-using-deep-convolutional-generative-adversarial-networks-dcgans/)
+[Generative Adversarial Autoencoders in Theano](https://swarbrickjones.wordpress.com/2016/01/24/generative-adversarial-autoencoders-in-theano/)
+
 ###### Music
 - [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
 - [Composing Music with LSTM Recurrent Networks - Blues Improvisation](http://people.idsia.ch/~juergen/blues/)
