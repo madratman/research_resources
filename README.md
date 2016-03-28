@@ -42,6 +42,9 @@ A repo containing links of various tutorials, courses, and papers I've read at s
 - [karpathy](http://karpathy.github.io/)
 - [nervana](http://www.nervanasys.com/blog/)
 
+#### Uncategorized cool stuff
+- [Pictures combined by CNNs](http://imgur.com/gallery/BAJ8j)
+
 #### Courses
 - [robotics 1](http://www.diag.uniroma1.it/~deluca/rob1_en/material_rob1_en.html), Prof. Alessandro De Luca
    - Aims: This course provides the basic tools for the kinematic analysis, trajectory planning, and programming of motion tasks for robot manipulators in industrial and service environments.
