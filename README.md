@@ -6,6 +6,14 @@ A repo containing links of various tutorials, courses, and papers I've read at s
 - [A guide to convolution arithmetic for deep learning](http://arxiv.org/abs/1603.07285v1) : Someone explains deconvolution/transposed convolution finally. [Lecture 9](https://computing.ece.vt.edu/~f15ece6504/#schedule) by Prof. Dhruv Batra is useful as well
 - [Using CNNs to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/#id10) : nolearn, lasagne
 
+##### RNN/LSTM 
+- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [Recurrent Networks in Lasagne](http://colinraffel.com/talks/hammer2015recurrent.pdf)
+###### Music
+- [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
+- [Composing Music with LSTM Recurrent Networks - Blues Improvisation](http://people.idsia.ch/~juergen/blues/)
+- [Modeling and generating sequences of polyphonic music with the RNN-RBM¶](http://deeplearning.net/tutorial/rnnrbm.html)
+
 ##### Deep Belief Nets/RBMs 
 - [A Tutorial on Deep Neural Networks for Intelligent Systems](http://arxiv.org/pdf/1603.07249v1.pdf)
 
