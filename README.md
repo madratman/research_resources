@@ -7,7 +7,7 @@ A repo containing links of various tutorials, courses, and papers I've read at s
 
 ####RL
 #####Deep
-- http://www.nervanasys.com/demystifying-deep-reinforcement-learning/
+- [Demystifying deep reinforcement learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)    
 #####Not so deep
 
 ####SLAM 
