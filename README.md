@@ -61,3 +61,6 @@ A repo containing links of various tutorials, courses, and papers I've read at s
    - Aims: This course provides tools for: Advanced kinematics and dynamic analysis of robot manipulators; Design of feedback control laws for free motion and interaction tasks, including visual servoing.
    - Contents: Advanced kinematics for robot manipulators (calibration, redundancy resolution). Derivation and use of the dynamic model of robots (Euler-Lagrange and Newton-Euler formulations). Identification of dynamic coefficients. Inclusion of joint transmission elasticity. Linear and nonlinear control schemes for set-point regulation (PD with gravity compensation, saturated PID, iterative learning) and for trajectory tracking (feedback linearization and decoupling, passive control, robust control, adaptive control) in free motion tasks, as well as for interaction tasks with the environment (compliance control, impedance control, hybrid force/velocity control). Image- and position-based visual servoing (kinematic treatment). Special topics will be presented in a seminarial way: diagnosis of robot actuator faults; detection of physical collisions and safe reaction.
 
+#### Software
+##### Linux kernel
+- [linux-insides gitbook](https://0xax.gitbooks.io/linux-insides/content/index.html)
