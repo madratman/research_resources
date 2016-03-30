@@ -47,6 +47,9 @@ Class Notes for CMSC 426, Fall 2005, David Jacobs  ](http://www.cs.umd.edu/~djac
 -[What is the difference between convolutional neural networks, restricted Boltzmann machines, and auto-encoders?](http://stats.stackexchange.com/questions/114385/what-is-the-difference-between-convolutional-neural-networks-restricted-boltzma)
 - [Deep learning in a nutshell - nvidia blogposts](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
 
+##### NLP
+- [Deep-Learning-for-NLP-Resources](https://github.com/shashankg7/Deep-Learning-for-NLP-Resources)
+
 #### SLAM 
 ##### Tutorials
 - [CVPR 2014 tutorial on Visual SLAM](http://frc.ri.cmu.edu/~kaess/vslam_cvpr14/)
