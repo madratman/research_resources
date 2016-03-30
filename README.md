@@ -29,7 +29,10 @@ A repo containing links of various tutorials, courses, and papers I've read at s
 ##### Deep Belief Nets/RBMs 
 - [A Tutorial on Deep Neural Networks for Intelligent Systems](http://arxiv.org/pdf/1603.07249v1.pdf)
 
-#####
+##### Convolution v/s correlation confusion
+- [Correlation and Convolution
+Class Notes for CMSC 426, Fall 2005, David Jacobs  ](http://www.cs.umd.edu/~djacobs/CMSC426/Convolution.pdf)
+- Ctrl+f in links under "Understanding Convolutions" section
 
 #### RL
 ##### Deep
