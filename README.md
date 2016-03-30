@@ -2,11 +2,14 @@
 A repo containing links of various tutorials, courses, and papers I've read at some point of time.
 
 #### Deep Learning
-##### General 
-- [Escaping saddlepoints](http://www.offconvex.org/2016/03/22/saddlepoints/)
 
+##### Understanding convolutions
+- [A guide to convolution arithmetic for deep learning](http://arxiv.org/abs/1603.07285v1) : Someone explains deconvolution/transposed convolution finally. [Lecture 8 and 9](https://computing.ece.vt.edu/~f15ece6504/#schedule) by Prof. Dhruv Batra is useful as well)
+- [Understanding Convolution in Deep Learning](http://timdettmers.com/2015/03/26/convolution-deep-learning/)
+- [What does the convolution step in a Convolutional Neural Network do?](http://stats.stackexchange.com/questions/116362/what-does-the-convolution-step-in-a-convolutional-neural-network-do)
+- [Understanding convolutional neural networks](http://stats.stackexchange.com/questions/85767/understanding-convolutional-neural-networks)
+ 
 ##### CNN
-- [A guide to convolution arithmetic for deep learning](http://arxiv.org/abs/1603.07285v1) : Someone explains deconvolution/transposed convolution finally. [Lecture 9](https://computing.ece.vt.edu/~f15ece6504/#schedule) by Prof. Dhruv Batra is useful as well
 - [Using CNNs to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/#id10) : nolearn, lasagne
 
 ##### RNN/LSTM 
@@ -26,14 +29,20 @@ A repo containing links of various tutorials, courses, and papers I've read at s
 ##### Deep Belief Nets/RBMs 
 - [A Tutorial on Deep Neural Networks for Intelligent Systems](http://arxiv.org/pdf/1603.07249v1.pdf)
 
+#####
+
 #### RL
 ##### Deep
 - [Demystifying deep reinforcement learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)  
 
-#### Not so deep
+##### Not so deep
 - [Adversarial Bandits and the Exp3 Algorithm](http://jeremykun.com/2013/11/08/adversarial-bandits-and-the-exp3-algorithm/) : Math ∩ Programming blog     
   Related - [SeqOpt by Debadeepta Dey et al](https://www.ri.cmu.edu/pub_files/2012/7/aaai12.pdf)
    
+##### General 
+- [Escaping saddlepoints](http://www.offconvex.org/2016/03/22/saddlepoints/)
+-[What is the difference between convolutional neural networks, restricted Boltzmann machines, and auto-encoders?](http://stats.stackexchange.com/questions/114385/what-is-the-difference-between-convolutional-neural-networks-restricted-boltzma)
+- [Deep learning in a nutshell - nvidia blogposts](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
 
 #### SLAM 
 ##### Tutorials
