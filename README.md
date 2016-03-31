@@ -1,4 +1,4 @@
-# robotics_resources
+# research_resources
 A repo containing links of various tutorials, courses, and papers I've read, or partially read, at some point of time.
 
 #### Deep Learning
