@@ -1,14 +1,19 @@
 # robotics_resources
-A repo containing links of various tutorials, courses, and papers I've read at some point of time.
+A repo containing links of various tutorials, courses, and papers I've read, or partially read, at some point of time.
 
 #### Deep Learning
 
 ##### Understanding convolutions
-- [A guide to convolution arithmetic for deep learning](http://arxiv.org/abs/1603.07285v1) : Someone explains deconvolution/transposed convolution finally. [Lecture 8 and 9](https://computing.ece.vt.edu/~f15ece6504/#schedule) by Prof. Dhruv Batra is useful as well)
+- [A guide to convolution arithmetic for deep learning](http://arxiv.org/abs/1603.07285v1) 
 - [Understanding Convolution in Deep Learning](http://timdettmers.com/2015/03/26/convolution-deep-learning/)
 - [What does the convolution step in a Convolutional Neural Network do?](http://stats.stackexchange.com/questions/116362/what-does-the-convolution-step-in-a-convolutional-neural-network-do)
 - [Understanding convolutional neural networks](http://stats.stackexchange.com/questions/85767/understanding-convolutional-neural-networks)
- 
+###### Transposed convolutions / fractionally strided convolutions / deconvolutions/ upconvolutions / insert fancy or misleading name here, in context of semantic segmentation
+- [CS 231n, W16, L13, start at 17:10](https://www.youtube.com/watch?v=ByjaPdWXKJ4&feature=youtu.be&t=17m10s)
+- [Supplementary Materials, Generating images with recurrent adversarial networks. Pg 12 onwards](http://arxiv.org/pdf/1602.05110v2.pdf)
+- [A guide to convolution arithmetic for deep learning](http://arxiv.org/abs/1603.07285v1) (repeated on purpose)
+- [Lecture 8 and 9](https://computing.ece.vt.edu/~f15ece6504/#schedule) by Prof. Dhruv Batra
+
 ##### CNN
 - [Using CNNs to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/#id10) : nolearn, lasagne
 
