@@ -59,6 +59,9 @@ Class Notes for CMSC 426, Fall 2005, David Jacobs  ](http://www.cs.umd.edu/~djac
 ##### NLP
 - [Deep-Learning-for-NLP-Resources](https://github.com/shashankg7/Deep-Learning-for-NLP-Resources)
 
+##### Visual Question Answering - the better turing test?
+- [VQA in Keras](https://avisingh599.github.io/deeplearning/visual-qa/)
+
 #### SLAM 
 ##### Tutorials
 - [CVPR 2014 tutorial on Visual SLAM](http://frc.ri.cmu.edu/~kaess/vslam_cvpr14/)
