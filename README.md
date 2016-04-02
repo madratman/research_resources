@@ -3,6 +3,9 @@ A repo containing links of various tutorials, courses, and papers I've read, or 
 
 #### Deep Learning
 
+##### Prelims
+- [Batch v/s online training tutorial](https://visualstudiomagazine.com/articles/2014/08/01/batch-training.aspx)
+
 ##### Understanding convolutions
 - [A guide to convolution arithmetic for deep learning](http://arxiv.org/abs/1603.07285v1) 
 - [Understanding Convolution in Deep Learning](http://timdettmers.com/2015/03/26/convolution-deep-learning/)
