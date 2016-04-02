@@ -31,7 +31,8 @@ A repo containing links of various tutorials, courses, and papers I've read, or 
 - [Generative Adversarial Autoencoders in Theano](https://swarbrickjones.wordpress.com/2016/01/24/generative-adversarial-autoencoders-in-theano/)
 
 ###### Music
-- [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
+- [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)   
+  [Discussion on reddit](https://www.reddit.com/r/MachineLearning/comments/4co052/trouble_understanding_this_biaxial_lstm_for_music/)
 - [Composing Music with LSTM Recurrent Networks - Blues Improvisation](http://people.idsia.ch/~juergen/blues/)
 - [Modeling and generating sequences of polyphonic music with the RNN-RBM¶](http://deeplearning.net/tutorial/rnnrbm.html)
 - [Music Language Modeling with Recurrent Neural Networks](http://yoavz.com/music_rnn/), [report](http://yoavz.com/music_rnn_paper.pdf), [code](https://github.com/yoavz/music_rnn)
