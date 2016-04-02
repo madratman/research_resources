@@ -34,6 +34,7 @@ A repo containing links of various tutorials, courses, and papers I've read, or 
 - [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
 - [Composing Music with LSTM Recurrent Networks - Blues Improvisation](http://people.idsia.ch/~juergen/blues/)
 - [Modeling and generating sequences of polyphonic music with the RNN-RBM¶](http://deeplearning.net/tutorial/rnnrbm.html)
+- [Music Language Modeling with Recurrent Neural Networks](http://yoavz.com/music_rnn/), [report](http://yoavz.com/music_rnn_paper.pdf), [code](https://github.com/yoavz/music_rnn)
 
 ##### Deep Belief Nets/RBMs 
 - [A Tutorial on Deep Neural Networks for Intelligent Systems](http://arxiv.org/pdf/1603.07249v1.pdf)
