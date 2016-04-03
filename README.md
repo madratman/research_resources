@@ -20,6 +20,7 @@ A repo containing links of various tutorials, courses, and papers I've read, or 
 
 ##### CNN
 - [Using CNNs to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/#id10) : nolearn, lasagne
+- [Colorizing B&W images](http://tinyclouds.org/colorize/)
 
 ##### RNN/LSTM 
 ###### Text
