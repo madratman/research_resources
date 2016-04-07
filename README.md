@@ -67,7 +67,7 @@ Class Notes for CMSC 426, Fall 2005, David Jacobs  ](http://www.cs.umd.edu/~djac
 ##### NLP
 - [Deep-Learning-for-NLP-Resources](https://github.com/shashankg7/Deep-Learning-for-NLP-Resources)
 - [Deep Learning in a Nutshell: Sequence Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-sequence-learning/)
-- [https://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/](https://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
+- [Understanding Natural Language with Deep Neural Networks Using Torch](https://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
 
 ##### Visual Question Answering - the better turing test?
 - [VQA in Keras](https://avisingh599.github.io/deeplearning/visual-qa/)
