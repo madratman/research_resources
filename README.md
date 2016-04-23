@@ -76,6 +76,9 @@ Class Notes for CMSC 426, Fall 2005, David Jacobs  ](http://www.cs.umd.edu/~djac
 ##### Tutorials
 - [CVPR 2014 tutorial on Visual SLAM](http://frc.ri.cmu.edu/~kaess/vslam_cvpr14/)
 
+#### Traditional computer vision
+- [Bilateral v/s Gaussian filter : A Gentle Introduction to Bilateral Filtering and its Applications](http://people.csail.mit.edu/sparis/bf_course/)
+
 ##### Algos
 - [ElasticFusion](https://github.com/mp3guy/ElasticFusion)
 - [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) and [ORB-SLAM1](https://github.com/raulmur/ORB_SLAM)
