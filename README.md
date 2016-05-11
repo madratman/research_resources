@@ -17,6 +17,7 @@ A repo containing links of various tutorials, courses, and papers I've read, or 
 - [Supplementary Materials, Generating images with recurrent adversarial networks. Pg 12 onwards](http://arxiv.org/pdf/1602.05110v2.pdf)
 - [A guide to convolution arithmetic for deep learning](http://arxiv.org/abs/1603.07285v1) (repeated on purpose)
 - [Lecture 8 and 9](https://computing.ece.vt.edu/~f15ece6504/#schedule) by Prof. Dhruv Batra
+- Dilated Convolutions
 
 ##### CNN
 - [Using CNNs to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/#id10) : nolearn, lasagne
@@ -60,6 +61,8 @@ Class Notes for CMSC 426, Fall 2005, David Jacobs  ](http://www.cs.umd.edu/~djac
 - [Escaping saddlepoints](http://www.offconvex.org/2016/03/22/saddlepoints/)
 -[What is the difference between convolutional neural networks, restricted Boltzmann machines, and auto-encoders?](http://stats.stackexchange.com/questions/114385/what-is-the-difference-between-convolutional-neural-networks-restricted-boltzma)
 - [Deep learning in a nutshell - nvidia blogposts](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
+- [An Explanation of Xavier Initialization](http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization)
+- [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
 ##### Libraries
 - [Theano tutorial](http://www.marekrei.com/blog/theano-tutorial/)
