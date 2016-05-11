@@ -75,6 +75,11 @@ Class Notes for CMSC 426, Fall 2005, David Jacobs  ](http://www.cs.umd.edu/~djac
 ##### Visual Question Answering - the better turing test?
 - [VQA in Keras](https://avisingh599.github.io/deeplearning/visual-qa/)
 
+#### Non deep stuff
+- [Radial Basis Function Network (RBFN) Tutorial]
+(http://mccormickml.com/2013/08/15/radial-basis-function-network-rbfn-tutorial/)    
+It is interesting how [this old paper](https://pdfs.semanticscholar.org/8c58/da4f55286e3a27d4e93b94feb8a87915c513.pdf) changes to von mises fisher basis function for spherical data. 
+
 #### SLAM 
 ##### Tutorials
 - [CVPR 2014 tutorial on Visual SLAM](http://frc.ri.cmu.edu/~kaess/vslam_cvpr14/)
