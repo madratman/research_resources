@@ -80,6 +80,9 @@ Class Notes for CMSC 426, Fall 2005, David Jacobs  ](http://www.cs.umd.edu/~djac
 (http://mccormickml.com/2013/08/15/radial-basis-function-network-rbfn-tutorial/)    
 It is interesting how [this old paper](https://pdfs.semanticscholar.org/8c58/da4f55286e3a27d4e93b94feb8a87915c513.pdf) changes to von mises fisher basis function for spherical data. 
 
+#### things2vec
+- [Word2vec and beyond](http://www.cs.utoronto.ca/~fidler/teaching/2015/slides/CSC2523/eleni-presentation.pdf)
+
 #### SLAM 
 ##### Tutorials
 - [CVPR 2014 tutorial on Visual SLAM](http://frc.ri.cmu.edu/~kaess/vslam_cvpr14/)
