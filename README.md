@@ -82,6 +82,9 @@ It is interesting how [this old paper](https://pdfs.semanticscholar.org/8c58/da4
 
 #### things2vec
 - [Word2vec and beyond](http://www.cs.utoronto.ca/~fidler/teaching/2015/slides/CSC2523/eleni-presentation.pdf)
+- [A brief history of word embeddings (and some clarifications)](http://gavagai.se/blog/2015/09/30/a-brief-history-of-word-embeddings/)
+- [Word2Vec: an introduction](http://www.folgertkarsdorp.nl/word2vec-an-introduction/)
+- [visualword2vec paper](http://arxiv.org/abs/1511.07067)
 
 #### SLAM 
 ##### Tutorials
