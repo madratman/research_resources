@@ -85,6 +85,25 @@ It is interesting how [this old paper](https://pdfs.semanticscholar.org/8c58/da4
 - [A brief history of word embeddings (and some clarifications)](http://gavagai.se/blog/2015/09/30/a-brief-history-of-word-embeddings/)
 - [Word2Vec: an introduction](http://www.folgertkarsdorp.nl/word2vec-an-introduction/)
 - [visualword2vec paper](http://arxiv.org/abs/1511.07067)
+- 
+#### SO(3) and SE(3) uncertainty propogation and prediction
+##### Gauss+Bingham stuff
+[Rigid Body Attitude Uncertainty Propagation
+using the Gauss-Bingham Distribution](https://www.researchgate.net/profile/Kyle_Demars2/publication/277021822_Rigid_Body_Attitude_Uncertainty_Propagation_using_the_Gauss-Bingham_Distribution/links/555faef708ae9963a118b5c3.pdf)    
+[Analysis of the Gauss-Bingham Distribution for Attitude Uncertainty Propagation](https://www.researchgate.net/profile/Jacob_Darling/publication/281295099_Analysis_of_the_Gauss-Bingham_Distribution_for_Attitude_Uncertainty_Propagation/links/55e0b45708ae6abe6e89c455.pdf)
+##### Projected Gaussian stuff
+[MPG - A Framework for Reasoning on 6 DOF Pose Uncertainty](http://www.r3-cop.eu/wp-content/uploads/2013/02/MPG-A-Framework-for-Reasoning-on-6-DOF-Pose-Uncertainty.pdf) Wendelin Feiten Muriel Lang
+##### Lie group / Riemannian manifold stuff
+[A Recursive Filter For Linear Systems on Riemannian Manifolds](http://web.cse.ohio-state.edu/~jwdavis/Publications/cvpr08-b.pdf) CVPR '08.   
+[Global Symplectic Uncertainty Propagation on SO(3)](http:// -arxiv.org/pdf/0803.1515.pdf) 2008. The visualization figs are interesting. Try the 3 sphere viz. Although, I think it isn't intuitive.    
+[Filtering Techniques for Pose Estimation with Applications to Unmanned Air Vehicles](http://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=4489&context=etd) This is goddam thesis! mmmm. "The second key contribution of this work is the Manifold EKF, a generalized version of the Extended Kalman
+Filter which is explicitly designed to estimate manifold-valued states"
+
+##### Dual quaternion stuff
+[Estimating SE(3) elements using a dual-quaternion based linear Kalman filter,”  in the proceedings of Robotics Science and Systems, Michigan, June 2016]() R. Arun Srivatsan, Gillian T. Rosen, Feroze M. Naina, and Howie Choset
+##### Hashtag Deep Learning baby
+[Learning Physical Intuition of Block Towers by Example](http://arxiv.org/abs/1603.01312)    
+[To Fall Or Not To Fall: A Visual Approach to Physical Stability Prediction](http://arxiv.org/abs/1604.00066)
 
 #### SLAM 
 ##### Tutorials
