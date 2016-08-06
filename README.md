@@ -85,7 +85,7 @@ It is interesting how [this old paper](https://pdfs.semanticscholar.org/8c58/da4
 - [A brief history of word embeddings (and some clarifications)](http://gavagai.se/blog/2015/09/30/a-brief-history-of-word-embeddings/)
 - [Word2Vec: an introduction](http://www.folgertkarsdorp.nl/word2vec-an-introduction/)
 - [visualword2vec paper](http://arxiv.org/abs/1511.07067)
-- 
+
 #### SO(3) and SE(3) uncertainty propogation and prediction
 ##### Gauss+Bingham stuff
 [Rigid Body Attitude Uncertainty Propagation
@@ -99,6 +99,12 @@ using the Gauss-Bingham Distribution](https://www.researchgate.net/profile/Kyle_
 [Filtering Techniques for Pose Estimation with Applications to Unmanned Air Vehicles](http://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=4489&context=etd) This is goddam thesis! mmmm. "The second key contribution of this work is the Manifold EKF, a generalized version of the Extended Kalman
 Filter which is explicitly designed to estimate manifold-valued states"
 
+I'll never understand the following but should think of combining SO(3) and spheres with convolutions and go deep?
+- [FFTs on the Rotation Group](http://www.cs.dartmouth.edu/~geelong/soft/03-11-060.pdf)
+- [Convolution on the n-sphere with application to pdf modeling](https://infoscience.epfl.ch/record/170272/files/n_sphere_convolution.pdf)
+- Spherical harmonics are like gabor filters but spheres, hmm so we need to learn sphere kernels, and rotate them inside sphere "images" (just to think visually). Check out this [gif of harmonics](https://upload.wikimedia.org/wikipedia/commons/1/12/Rotating_spherical_harmonics.gif) from wiki
+- [Cyclic Convolution Matrix](https://ccrma.stanford.edu/~jos/fp/Cyclic_Convolution_Matrix.html)
+
 ##### Dual quaternion stuff
 [Estimating SE(3) elements using a dual-quaternion based linear Kalman filter,”  in the proceedings of Robotics Science and Systems, Michigan, June 2016]() R. Arun Srivatsan, Gillian T. Rosen, Feroze M. Naina, and Howie Choset
 ##### Hashtag Deep Learning baby
@@ -109,12 +115,17 @@ Filter which is explicitly designed to estimate manifold-valued states"
 ##### Tutorials
 - [CVPR 2014 tutorial on Visual SLAM](http://frc.ri.cmu.edu/~kaess/vslam_cvpr14/)
 
-#### Traditional computer vision
+#### General computer vision stuff
 - [Bilateral v/s Gaussian filter : A Gentle Introduction to Bilateral Filtering and its Applications](http://people.csail.mit.edu/sparis/bf_course/)
+- [FFTs in Graphics and Vision](http://www.cs.jhu.edu/~misha/Fall08/07.pdf)
 
 ##### Algos
 - [ElasticFusion](https://github.com/mp3guy/ElasticFusion)
 - [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) and [ORB-SLAM1](https://github.com/raulmur/ORB_SLAM)
+
+##### General Math stuff
+- [An Interactive Guide To The Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+- [fourier for dummies](http://math.stackexchange.com/questions/1002/fourier-transform-for-dummies)
 
 #### Blogs to follow
 - [Google](http://googleresearch.blogspot.com/)
@@ -127,6 +138,8 @@ Filter which is explicitly designed to estimate manifold-valued states"
 - [Pictures combined by CNNs](http://imgur.com/gallery/BAJ8j)
 
 #### Courses
+- [SLAM course by Cyrill Stachniss](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)
+- [RL by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 - [robotics 1](http://www.diag.uniroma1.it/~deluca/rob1_en/material_rob1_en.html), Prof. Alessandro De Luca
    - Aims: This course provides the basic tools for the kinematic analysis, trajectory planning, and programming of motion tasks for robot manipulators in industrial and service environments.
    - Contents: Typical robotic systems are illustrated through examples of manipulators and mobile-base robots in industrial and service applications. The basic functional components of a robot are presented: mechanics for manipulation, actuators, proprio- and exteroceptive sensing devices, control architecture, and programming. Direct, inverse, and differential kinematic models of robot manipulators are analyzed. Trajectory planning methods both in the joint and in the task (Cartesian) space are then explored. Simple control schemes are introduced, including kinematic control for robot arms and decentralized dynamic control for the single axes of a manipulator.
