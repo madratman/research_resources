@@ -49,6 +49,16 @@ A repo containing links of various tutorials, courses, and papers I've read, or 
 Class Notes for CMSC 426, Fall 2005, David Jacobs  ](http://www.cs.umd.edu/~djacobs/CMSC426/Convolution.pdf)
 - Ctrl+f in links under "Understanding Convolutions" section
 
+##### Semantic Segmentation
+- [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147)
+
+##### Meta learning
+- [Neural networks with differentiable structure](https://arxiv.org/abs/1606.06216)
+- [Gradient-based Hyperparameter Optimization through Reversible Learning](https://arxiv.org/abs/1502.03492)
+- [Convolutional Neural Networks at Constrained Time Cost](https://arxiv.org/abs/1412.1710)
+- [Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/abs/1606.02228)
+- [Scalable Bayesian Optimization Using Deep Neural Networks](https://arxiv.org/abs/1502.05700)
+
 #### RL
 ##### Deep
 - [Demystifying deep reinforcement learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)  
